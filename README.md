@@ -34,13 +34,13 @@ It stands on a circular wooden board and comprises of 3 BLDC motors and a blower
 |Android Device|10000|
 |Blower|750|
 |Arduino Uno|500|
-|ESC motor driver(3)|480|
+|ESC motor driver(3)|1440|
 |Bluetooth module|350|
 |Voltmeter|160|
 |BLDC motors(3)|1050|
 |Li-Po battery(2)|2200|
 |Other Components|2000|
-|Total|17490|
+|Total|18450|
 
 ###  Final Changes and Modification in design
 The structure was inclined due to unhealthy weight balancing so we need to balance it. And also it required some error correction in steering it.
@@ -59,9 +59,10 @@ Air blower blows air in the tube which consists of small pores at the lower side
 
 # Team Members
 
-1. [Rishab Sharma](https://github.com/rishabh0203iitr)
-2. [Shubham Verma](https://github.com/shubhamverma989630)
-3. Pulkit Mundra
+1. Pulkit Mundra
+2. [Rishab Sharma](https://github.com/rishabh0203iitr)
+3. [Shubham Verma](https://github.com/shubhamverma989630)
+ 
 # Mentors
 
 1. Avdesh Ranwa
