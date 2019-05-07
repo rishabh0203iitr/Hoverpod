@@ -53,14 +53,14 @@ Air blower blows air in the tube which consists of small pores at the lower side
  - As friction is not present,it is a bit difficult to steer it.
  - Blower requires a high power input so it need to be connected through wire.
  # Future Improvements
- - To make it wireless
- - To improve controlling.
+ - Make it ready for industrial application.
+ - To improve controlling by combining it with a gyroscope and PID.
  - To increase weight lifting capability.
 
 # Team Members
 
 1. Pulkit Mundra
-2. [Rishab Sharma](https://github.com/rishabh0203iitr)
+2. [Rishabh Sharma](https://github.com/rishabh0203iitr)
 3. [Shubham Verma](https://github.com/shubhamverma989630)
  
 # Mentors
