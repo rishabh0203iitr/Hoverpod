@@ -50,7 +50,7 @@ Air blower blows air in the tube which consists of small pores at the lower side
 
  # Limitations
  - It can lift only upto 15 kgs.
- - As friction is not present,it is a bit difficult to steer it.
+ - As friction is not present,it is difficult to steer it.
  - Blower requires a high power input so it need to be connected through wire.
  # Future Improvements
  - Make it ready for industrial application.
