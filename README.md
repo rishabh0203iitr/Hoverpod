@@ -20,7 +20,7 @@ Our Bot can move efficiently on any plane surface, the almost frictionless desig
 2. 2. Arduino Uno was used for motion of BLDC motors as well as to connect bluetooth module.
 3. A bluetooth module was used for transmission of commands from android device to our hoverpod.  
 4. All the BLDC motors were powered through Li-Po 11.1V dc battery.
-![circuit](https://github.com/shubhamverma989630/Hoverpod/blob/master/Electronic%20compo.jpg)
+
 
 
 
@@ -69,4 +69,5 @@ Air blower blows air in the tube which consists of small pores at the lower side
 2. Raghav Dhingra
 
 
+![circuit](https://github.com/shubhamverma989630/Hoverpod/blob/master/Electronic%20compo.jpg)
 
