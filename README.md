@@ -1,7 +1,7 @@
 # Hoverpod
 _A vehicle that hovers over land as well as water_
 ![bot1](https://github.com/shubhamverma989630/Hoverpod/blob/master/IMG_20190308_003335_Bokeh.jpg)
-# Abstract
+## Abstract
 The idea of this project is to make a vehicle that hovers over water and land.The team is working on this project for three months and team was successful in making a hoverpod that can lift upto 15 kgs.Moreover it can be controlled by an android app with aid of bluetooth.
 
 ## Motivation
@@ -48,22 +48,22 @@ The structure was inclined due to unhealthy weight balancing so we need to balan
 ## Working
 Air blower blows air in the tube which consists of small pores at the lower side of it so that it creates an air cushion over which structure can hover. It is controlled by 3 BLDC motors which helps to steer it. And BLDC is controlled through arduino with the aid of bluetooth module. 
 
- # Limitations
+ ## Limitations
  - It can lift only upto 15 kgs.
  - As friction is not present,it is difficult to steer it.
  - Blower requires a high power input so it need to be connected through wire.
- # Future Improvements
+ ## Future Improvements
  - Make it ready for industrial application.
  - To improve controlling by combining it with a gyroscope and PID.
  - To increase weight lifting capability.
 
-# Team Members
+## Team Members
 
 1. Pulkit Mundra
 2. [Rishabh Sharma](https://github.com/rishabh0203iitr)
 3. [Shubham Verma](https://github.com/shubhamverma989630)
  
-# Mentors
+## Mentors
 
 1. Avdesh Ranwa
 2. Raghav Dhingra
