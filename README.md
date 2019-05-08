@@ -42,7 +42,7 @@ It stands on a circular wooden board and comprises of 3 BLDC motors and a blower
 |Other Components|2000|
 |Total|18450|
 
-###  Final Changes and Modification in design
+## Final Changes and Modification in design
 The structure was inclined due to unhealthy weight balancing so we need to balance it. And also it required some error correction in steering it.
 
 ## Working
