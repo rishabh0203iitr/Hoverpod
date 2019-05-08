@@ -69,5 +69,5 @@ Air blower blows air in the tube which consists of small pores at the lower side
 2. Raghav Dhingra
 
 
-![circuit](https://github.com/shubhamverma989630/Hoverpod/blob/master/Electronic%20compo.jpg)
+![Teampic](https://github.com/rishabh0203iitr/Hoverpod/blob/master/Images%20and%20Videos/images/Teampic.jpeg)
 
